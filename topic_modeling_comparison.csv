@@ -1,0 +1,3 @@
+Model,Number_of_Topics,Input_Features,Coherence_Score
+LDA,5,Word Counts,0.5645806725004532
+NMF,5,TF-IDF,0.7044986632137368
